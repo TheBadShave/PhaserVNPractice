@@ -1,0 +1,10 @@
+@font-face {
+    font-family: CustomFont;
+    src: url('./Fonts/MagicalStory.ttf');
+}
+
+.center{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
